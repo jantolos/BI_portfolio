@@ -120,4 +120,4 @@ Power BI connected directly to the MySQL warehouse. Five reports:
 ---
 
 **Jerry J. Antolos** — MSc in Informatics (Databases and Knowledge Bases), University of Zagreb
-[LinkedIn](https://www.linkedin.com/in/jerryjantolos/) · [Google Scholar](https://scholar.google.com/citations?hl=en&user=G69tcycAAAAJ) · [Portfolio](https://uxfol.io/jantolos/)
+[LinkedIn](https://www.linkedin.com/in/jerryjantolos/) · [Google Scholar](https://scholar.google.com/citations?hl=en&user=G69tcycAAAAJ)
